@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Axiom Software Center
-Comment=Install and Remove Applications
-Exec=plasma-discover
-Icon=system-software-install
-Terminal=false
-Type=Application
-Categories=System;
