@@ -1,1 +1,1 @@
-resources/app/resources/app/
+echo resources/apps/ >> .gitignore
