@@ -1,0 +1,12 @@
+[Unit]
+Description=AxiomOS First Boot Auto-Update
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/first-boot-update.sh
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target

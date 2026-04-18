@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Axiom Welcome
+Comment=Welcome to AxiomOS
+Exec=/usr/local/bin/axiom-welcome
+Icon=start-here-kde
+Terminal=false
+Type=Application
+Categories=System;Utility;
+StartupNotify=true
